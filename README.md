@@ -1,6 +1,6 @@
-# Customer Forecasting Data Analytics Project  
+# Engagement Insights System  
   
-The project is developed to analyze and forecast customer behavior using data-driven insights. With growing competition in online platforms, businesses often face reduced engagement, low conversion rates, and high marketing expenses. By leveraging data analytics and predictive modeling, this project aims to identify key factors influencing customer decisions, improve engagement strategies, and optimize overall business performance.  
+The project is developed to analyze and forecast customer engagement using data-driven insights. With growing competition in online platforms, businesses often face reduced engagement, low conversion rates, and high marketing expenses. By leveraging data analytics and predictive modeling, this project aims to identify key factors influencing customer decisions, improve engagement strategies, and optimize overall business performance.  
 
 ## Snapshot
 <p align="center">
